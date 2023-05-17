@@ -1,0 +1,53 @@
+body{
+    font-family: Oxygen, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+h1 {
+    color:white;
+    background-color: rgb(128, 168, 243);
+    font-size: 3em;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+.picture{
+    width: 270px;
+    height: 300px;
+    border: 10px solid plum;
+    margin: 15px;
+}
+
+.newthing{
+    padding-left: 10px
+}
+
+h2 {
+    color: white;
+    background-color: rgb(240, 158, 128);
+    font-size: 2em;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#added {
+    background-color: azure;
+    width: 75%;
+    margin-top: 50px;
+    margin-left:auto;
+    margin-right: auto;
+    border:darkslateblue solid 5px;
+}
+
+#rad-edit, #check-edit{
+    color:palevioletred;
+}
+
+#sub-but{
+    background-color:rgb(216, 178, 241);
+    width:6%;
+    border-color:darkslateblue;
+}
